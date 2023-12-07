@@ -1,5 +1,5 @@
 # Image-Processing
-Repo consists of 6 projects/assignments I did in the course: EE604A
+## Repo consists of 6 projects/assignments I did in the course: EE604A
 
 1: Drone Flag Localization and Positioning with Image Processing
 
