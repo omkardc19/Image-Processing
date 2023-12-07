@@ -9,7 +9,3 @@ Repo consists of 6 projects/assignments I did in the course: EE604A
 6: Delusion Detector: Image Analysis for Identifying Real vs. Manipulated Representations of Ravana using Python and OpenCV
 
 
-Requirements:
-opencv-python==4.8.0.76
-scikit-image==0.21.0
-librosa==0.10.1
