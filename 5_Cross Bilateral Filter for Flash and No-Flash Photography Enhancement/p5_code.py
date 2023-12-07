@@ -69,8 +69,6 @@ def solution(image_path_a, image_path_b):
     ## image_path_b is path to the flash low ISO image
     ############################
     ############################
-    ## comment the line below before submitting else your code wont be executed##
-    # pass
     image1 = cv2.imread(image_path_a)  #non-flash high ISO image
     image2 = cv2.imread(image_path_b)  #flash low ISO image
 
