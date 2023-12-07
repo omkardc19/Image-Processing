@@ -1,0 +1,2 @@
+# Material Classification Using Audio Spectrogram Analysis
+This project delves into the acoustic realm. Utilizing audio-to-spectrogram conversion techniques, the program processes brick sounds and distinguishes between high-quality bricks with a metallic resonance and low-quality ones sounding like cardboard. The code employs Python libraries like Librosa for analyzing audio and transforms it into spectrograms, offering a unique perspective on material quality through sound.
