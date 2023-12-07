@@ -1,0 +1,2 @@
+# Automated Lava Flow Estimation: Image Segmentation and Analysis using Python and OpenCV
+Automated Lava Flow Estimation harnesses the power of image segmentation and analysis using Python and OpenCV. In the realm of volcanic aftermath, accurately estimating the lava flow is crucial for emergency response planning, safety, and environmental impact assessment. This program processes drone-captured images, generating a white mask highlighting the lava regions.
