@@ -140,21 +140,7 @@ def solution(image_path):
 
 # Rotate the image 180 degrees
     invimg = cv2.flip(image, flipCode=-1)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
     # cv2_imshow( image)
     # Load the input image
     input_image = cv2.imread(image_path)
